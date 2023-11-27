@@ -1,6 +1,7 @@
 # Topological Spaces
 
 **Definition** A collection $\tau \subseteq 2^X$ is said to be a *topology* on $X$ if
+
 $$
 \begin{align}
     i)\; &\emptyset,X \in \tau \\
